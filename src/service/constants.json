@@ -1,0 +1,21 @@
+{
+    "LOGIN": {
+        "MAIN_TITLE":"You title can\n as long",
+        "DESCRIPTION":"Lorem ipsum dolor sit amet\nconsectetur. Viverra integer nam\n sed in dolor magnis vitae.",
+        "PLACEHOLDER":"Password",
+        "BUTTON_TITLE":"Text",
+        "FORGOT_PASSWORD":"Forgot your password?",
+        "RESTORE":" Restore",
+        "SIGNUP":"SIGNUP"
+    },
+    
+    "REGISTRATION":{
+        "REGISTRATION":"Registration",
+        "DESCRIPTION":"Lorem ipsum dolor sit amet\nconsectetur.",
+        "NAME_PLACEHOLDER":"Username",
+        "PASSWORD_PLACEHOLDER":"Confirm Password",
+        "ALREADY_MEMBER":"Already a member?",
+        "LOGIN":" Login"
+        
+    }
+}
